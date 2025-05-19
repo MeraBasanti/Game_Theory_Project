@@ -1,0 +1,87 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(battle_of_sexes.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-03-26>
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+ (C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+)))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+ (C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+TextBlockOrigin set to 0pt x 0pt
+)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def)
+No file battle_of_sexes.aux.
+
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty) (C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty))
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+Overfull \hbox (49.68109pt too wide) in paragraph at lines 21--21
+ [][] 
+
+[1{C:/Users/mosta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./tree_plo
+t.png> <./ANU_LOGO.jpg>]
+(C:\Users\mosta\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd)
+[2 <./payoff_table.png>]
+[3]
+[4]
+[5] (battle_of_sexes.aux) )
+(see the transcript file for additional information) <C:\Users\mosta\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/mosta/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mo
+sta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Users/mosta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Users/mosta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb><C:/Users/mosta/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Users/mosta/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/mosta/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on battle_of_sexes.pdf (5 pages, 1254436 bytes).
+Transcript written on battle_of_sexes.log.
+
